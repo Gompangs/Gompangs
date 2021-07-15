@@ -1,9 +1,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Gompangs)](https://github.com/anuraghazra/github-readme-stats)
 
+[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Gompangs&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gompangs&layout=compact&theme=dracula)](https://github.com/Gompangs)
-
-[![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Gompangs&count_bg=%237A7A7A&title_bg=%23FFADCC&icon=reverbnation.svg&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![followers](https://img.shields.io/github/followers/Gompangs?style=social)
+![followers](https://img.shields.io/github/followers/Gompangs?style=social)
 
 <!--
 **Gompangs/Gompangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
